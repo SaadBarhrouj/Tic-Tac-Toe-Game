@@ -38,14 +38,4 @@ Un simple jeu de Tic-Tac-Toe implémenté en HTML, CSS, et JavaScript. Ce projet
 
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, n'hésitez pas à ouvrir une pull request ou à signaler un problème.
 
-## 📜 **Licence**
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-Profitez du jeu ! 🕹️🎉
-
-<div align="center">
-  <img src="https://via.placeholder.com/150" alt="Tic-Tac-Toe Screenshot" width="300">
-</div>
